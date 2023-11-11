@@ -1,15 +1,16 @@
 # GourmetGazette
-![image](https://github.com/Naivedya-Rai/GourmetGazette/assets/122347651/4ff0ed17-2e87-403d-9856-1faa823ff4d4)
+
 
 
 
 ![image](https://github.com/Naivedya-Rai/GourmetGazette/assets/122347651/41be2aad-5d3d-4604-b84e-413829ab975e)
 
-![image](https://github.com/Naivedya-Rai/GourmetGazette/assets/122347651/c37f158a-d85f-40bb-aced-1df46acc3e76)
 # Gourmet Gazette - Food Blogging and Recipe App
 
-Welcome to Gourmet Gazette, your ultimate destination for discovering delectable and healthy recipes. Our platform is designed to transform cooking into a delightful and exciting experience, featuring a user-friendly interface complemented by personalized features such as recipe recommendations and food quizzes. In a sea of food blogging and recipe websites, Gourmet Gazette stands out by offering a unique user experience inspired by the best features of popular platforms like Smitten Kitchen, Inspired Taste, HelloFresh, Gobble, Zomato, Instagram, and YouTube.
+![image](https://github.com/Naivedya-Rai/GourmetGazette/assets/122347651/c37f158a-d85f-40bb-aced-1df46acc3e76)
 
+Welcome to Gourmet Gazette, your ultimate destination for discovering delectable and healthy recipes. Our platform is designed to transform cooking into a delightful and exciting experience, featuring a user-friendly interface complemented by personalized features such as recipe recommendations and food quizzes. In a sea of food blogging and recipe websites, Gourmet Gazette stands out by offering a unique user experience inspired by the best features of popular platforms like Smitten Kitchen, Inspired Taste, HelloFresh, Gobble, Zomato, Instagram, and YouTube.
+![image](https://github.com/Naivedya-Rai/GourmetGazette/assets/122347651/4ff0ed17-2e87-403d-9856-1faa823ff4d4)
 ## Project setup
 ```
 npm install
