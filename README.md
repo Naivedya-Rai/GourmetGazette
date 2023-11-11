@@ -1,7 +1,3 @@
-# GourmetGazette
-
-
-
 
 ![image](https://github.com/Naivedya-Rai/GourmetGazette/assets/122347651/41be2aad-5d3d-4604-b84e-413829ab975e)
 
